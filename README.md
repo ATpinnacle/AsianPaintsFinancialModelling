@@ -25,10 +25,10 @@ DCF Valuation - free cash flow projection, discounting, and intrinsic value/shar
 Peer Comps - relative valuation cross-check against listed peers
 
 
-**Tools and Sources Used
+Tools and Sources Used
 
 Microsoft Excel, public financial data (Screener, Top Stock Research, Yahoo Finance, etc.) 
-**
+
 
 
 
