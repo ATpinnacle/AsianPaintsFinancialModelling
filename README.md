@@ -3,7 +3,7 @@ Asian Paints Financial Modelling
 A three-statement financial model and DCF valuation of Asian Paints Ltd.
 
 
-⚠️ The Excel model itself is kept private and is not included in this repo. This README and the PDF attached above document what the model contains.
+⚠️ The Excel model itself is kept private and is not included in this repo. This README and the PDF attached above documents what the model contains.
 
 What's Inside
 
